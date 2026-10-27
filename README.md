@@ -19,7 +19,7 @@ This repository contains 10 Image Processing programs implemented in Python usin
 
 ## Files
 
-- `Assignment_2_Image_Processing.ipynb` — Jupyter Notebook containing all 10 programs.
+- `Assignment_2_Image_Notebook.ipynb` — Jupyter Notebook containing all 10 programs.
 - Individual `.py` files — Each program is also provided as a separate Python script.
 - Image files — Input images required by the programs.
 
@@ -41,7 +41,7 @@ python -m pip install opencv-python pillow numpy matplotlib
 
 1. Download or clone this repository.
 2. Keep the required input images in the same folder as the notebook or Python scripts.
-3. Open `Assignment_2_Image_Processing.ipynb` in Jupyter Notebook.
+3. Open `Assignment_2_IPP_Notebook.ipynb` in Jupyter Notebook.
 4. Run the cells from top to bottom.
 
 Alternatively, run an individual script from a terminal, for example:
